@@ -1,9 +1,9 @@
 Kedves olvasó!
 
 Köszönjük, hogy Meglátogattad weboldalunkat!
-Az alábbiakban elolvashatod mire van szügséged a használatjoz és hogyan indíthatod el a weboldalt.
+Az alábbiakban elolvashatod mire van szügséged a használathoz és hogyan indíthatod el a weboldalt.
 
-Az weboldalon magyar tudósok munkásságáról és életéről olvashatsz és tölthetsz ki kvízeket.
+A weboldalon magyar tudósok munkásságáról és életéről olvashatsz és tölthetsz ki kvízeket.
 A futtatáshoz egy egyszerű böngészőt is tudsz használni, és nem kell előzetesen letölteni és beállítani semmit!
 Az indításhoz a main  weboldalt kell elindítanod de ha céltudatosan egy-egy tudós érdekel a hozzájuk tartozó weboldalakat is megnyithatod.
 
